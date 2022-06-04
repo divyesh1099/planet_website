@@ -27,6 +27,15 @@ Use the corresponding .md files for the text of your pages.
 * In Remembrance of Moti❤
 
 ### Here are some Screenshots
+![image](https://user-images.githubusercontent.com/65925922/172027826-f2aba6be-fea1-434b-908b-8f851ef5a26a.png)
+![image](https://user-images.githubusercontent.com/65925922/172027845-72032a2b-f3b5-4a9b-a975-aa1ce3729a08.png)
+![image](https://user-images.githubusercontent.com/65925922/172027850-e4e7c08f-a5a1-4b0f-8530-0011221279b1.png)
+![image](https://user-images.githubusercontent.com/65925922/172027855-524a5dc6-ae41-495b-841b-4ef9f42942c6.png)
+![image](https://user-images.githubusercontent.com/65925922/172027859-034bbad0-9833-4d93-9747-783779d201f3.png)
+![image](https://user-images.githubusercontent.com/65925922/172027877-cfe1d752-bb46-4185-a156-6050bd3fa46c.png)
+![image](https://user-images.githubusercontent.com/65925922/172027880-ee79bad3-a96a-4322-87f9-f694f5b7447e.png)
+![image](https://user-images.githubusercontent.com/65925922/172027888-9b7079f0-8f1b-46d3-a730-d0ce0fe598f9.png)
+![image](https://user-images.githubusercontent.com/65925922/172027890-432d32a5-16db-43ab-8a07-50f81cdea036.png)
 ![image](https://user-images.githubusercontent.com/65925922/171989753-f56f9900-4d61-4c87-a846-3352b5d64cd5.png)
 ![image](https://user-images.githubusercontent.com/65925922/171989772-5597f526-2cbf-4df2-a33c-d2d501329416.png)
 ![image](https://user-images.githubusercontent.com/65925922/171989777-a03adebd-4b4d-4337-a26d-000aba850c23.png)
