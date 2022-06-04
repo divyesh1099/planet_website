@@ -1,6 +1,6 @@
-# planet_website
+# planet_website 
 Task 2 Day 1
-
+### Deployed to [planet_website_for_moti❤](https://planet-website-3d32c.web.app/index.html)
 Your job is to create a 3 page website about Earth and Mars.
 
 Use the corresponding .md files for the text of your pages.
@@ -25,3 +25,10 @@ Use the corresponding .md files for the text of your pages.
   - Mars: Photo by mohammad alizade on Unsplash
 
 * In Remembrance of Moti❤
+
+### Here are some Screenshots
+![image](https://user-images.githubusercontent.com/65925922/171989753-f56f9900-4d61-4c87-a846-3352b5d64cd5.png)
+![image](https://user-images.githubusercontent.com/65925922/171989772-5597f526-2cbf-4df2-a33c-d2d501329416.png)
+![image](https://user-images.githubusercontent.com/65925922/171989777-a03adebd-4b4d-4337-a26d-000aba850c23.png)
+![image](https://user-images.githubusercontent.com/65925922/171989786-c41e01d2-1429-48fd-8cf5-5b7c6e38ac20.png)
+![image](https://user-images.githubusercontent.com/65925922/171989799-0e9da434-18ad-42b3-aa3e-dfc15e672b46.png)
