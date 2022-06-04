@@ -23,3 +23,5 @@ Use the corresponding .md files for the text of your pages.
 * Images:
   - Earth: Photo by NASA on Unsplash
   - Mars: Photo by mohammad alizade on Unsplash
+
+* In Remembrance of Moti❤
